@@ -35,5 +35,395 @@ const dataMahasiswa = [
     HP: "082325485527",
     Email: "winatakoten@gmail.com",
   },
-  // tambahkan data lainnya dari PDF di sini...
+  {
+    Nama: "Antonius Kae Da Silva",
+    NIM: "5520124001",
+    NIK: "5313052909030002",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Larantuka, 29 September 2003",
+    Alamat: "",
+    Nomor_HP: "082145687745",
+    Email: "dasilvatony362@gmail.com"
+  },
+  {
+    Nama: "Yosep Ronaldo Sili Tokan",
+    NIM: "5520124002",
+    NIK: "5306183101060003",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Lite, 31 Januari 2006",
+    Alamat: "Lite, Kecamatan Adonara Tengah",
+    Nomor_HP: "082267886240",
+    Email: "ronallade07@gmail.com"
+  },
+  {
+    Nama: "Marianus B. W. Belen",
+    NIM: "5520124003",
+    NIK: "5306081508020001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Nubawoten, 15 Agustus 2002",
+    Alamat: "",
+    Nomor_HP: "081338060616",
+    Email: "janbhelens@gmail.com"
+  },
+  {
+    Nama: "Dominika Anggunwinata Koten",
+    NIM: "5520124004",
+    NIK: "5306034311050001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Larantuka, 3 November 2005",
+    Alamat: "",
+    Nomor_HP: "082325485527",
+    Email: "winatakoten@gmail.com"
+  },
+  {
+    Nama: "Yulius Xaverius Padak Pati",
+    NIM: "5520124005",
+    NIK: "5306180307050001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Epubele, 3 Juli 2005",
+    Alamat: "",
+    Nomor_HP: "081230937792",
+    Email: "j1mmywatomakin@gmail.com"
+  },
+  {
+    Nama: "Klara Eja Tobi",
+    NIM: "5520124006",
+    NIK: "5306015507030001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Duang, 15 Juli 2003",
+    Alamat: "",
+    Nomor_HP: "081238012706",
+    Email: "mecytobi@gmail.com"
+  },
+  {
+    Nama: "Herman Yosef Boli Helan",
+    NIM: "5520124007",
+    NIK: "5306182105020001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Larantuka, 20 Mei 2002",
+    Alamat: "",
+    Nomor_HP: "082214244252",
+    Email: "bahihelan@gmail.com"
+  },
+  {
+    Nama: "Theresia Naduk",
+    NIM: "5520124008",
+    NIK: "5306145704050003",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Bama, 17 April 2005",
+    Alamat: "",
+    Nomor_HP: "085134412909",
+    Email: "theresianaduk418@gmail.com"
+  },
+  {
+    Nama: "Yuventa Inggo Puka",
+    NIM: "5520124009",
+    NIK: "5306166503050001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Nurabelen, 25 Maret 2005",
+    Alamat: "",
+    Nomor_HP: "081275556592",
+    Email: "yuventapuka01@gmail.com"
+  },
+  {
+    Nama: "Mardiana Awaludin",
+    NIM: "5520124010",
+    NIK: "5306106602050001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Lamahala, 26 Februari 2005",
+    Alamat: "",
+    Nomor_HP: "081246281693",
+    Email: "matedediyana@gmail.com"
+  },
+  {
+    Nama: "Tiara Sofi Makanoneng",
+    NIM: "5520124011",
+    NIK: "7109065202060001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Bawoleu, 12 Februari 2006",
+    Alamat: "",
+    Nomor_HP: "085397066604",
+    Email: "tiaramakanoneng2@gmail.com"
+  },
+  {
+    Nama: "Yohanes Don Bosco Suban Kia",
+    NIM: "5520124012",
+    NIK: "5306181710040001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Kenotan, 17 Oktober 2004",
+    Alamat: "",
+    Nomor_HP: "082148897932",
+    Email: "yyohanesdonbosko4@gmail.com"
+  },
+  {
+    Nama: "Maria Yosefina Ema Welan",
+    NIM: "5520124013",
+    NIK: "5306045409040001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Sabah, 14 September 2004",
+    Alamat: "",
+    Nomor_HP: "082147507813",
+    Email: "welanervin9@gmail.com"
+  },
+  {
+    Nama: "Elisabet Odi Bogo",
+    NIM: "5520124014",
+    NIK: "5306034602060001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Tabali, 6 Februari 2006",
+    Alamat: "",
+    Nomor_HP: "081236011460",
+    Email: "osinbogo@gmail.com"
+  },
+  {
+    Nama: "Hironima Agatha Jawa",
+    NIM: "5520124015",
+    NIK: "5306037009030002",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Lewolere, 30 September 2003",
+    Alamat: "",
+    Nomor_HP: "081280603909",
+    Email: "hironimaagatha@gmail.com"
+  },
+  {
+    Nama: "Yohana Wula Wona",
+    NIM: "5520124016",
+    NIK: "5316037108010002",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Wolonio, 30 Agustus 2001",
+    Alamat: "",
+    Nomor_HP: "081352372078",
+    Email: "wulayohana6@gmail.com"
+  },
+  {
+    Nama: "Maksimus Pulo Liwun",
+    NIM: "5520124017",
+    NIK: "5306152308040001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Kawaliwu, 23 Agustus 2004",
+    Alamat: "",
+    Nomor_HP: "082210680097",
+    Email: "maksiliwun64@gmail.com"
+  },
+  {
+    Nama: "Jerika Boi Laot",
+    NIM: "5520124018",
+    NIK: "5306176406060001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Penampang, 24 Juni 2006",
+    Alamat: "",
+    Nomor_HP: "081338296103",
+    Email: "fghijerika@gmail.com"
+  },
+  {
+    Nama: "Dwi Suryani Putri Inang",
+    NIM: "5520124019",
+    NIK: "5306036704060004",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Larantuka, 27 April 2005",
+    Alamat: "",
+    Nomor_HP: "081239439265",
+    Email: "putriinang5@gmail.com"
+  },
+  {
+    Nama: "Rista Agustina",
+    NIM: "5520124020",
+    NIK: "7407046508060001",
+    Jenis_Kelamin: "Wanita",
+    Nama_Ibu: "Rini",
+    Agama: "Islam",
+    Tempat_Tanggal_Lahir: "Taipabu, 25 Agustus 2006",
+    Alamat: "Kelurahan Weri, Kecamatan Larantuka",
+    Nomor_HP: "085320262761",
+    Email: "rista7627@gmail.com"
+  },
+  {
+    Nama: "Lukas Semara Bebe",
+    NIM: "5520124021",
+    NIK: "5306112210040001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Maumere, 22 Oktober 2004",
+    Alamat: "",
+    Nomor_HP: "082115782645",
+    Email: "semaralamablawa@gmail.com"
+  },
+  {
+    Nama: "Rosa Virginia Tokan",
+    NIM: "5520124022",
+    NIK: "5309096404050001",
+    Jenis_Kelamin: "Wanita",
+    Nama_Ibu: "Agustina Bina Niron",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Larantuka, 24 April 2005",
+    Alamat: "",
+    Nomor_HP: "081338976241",
+    Email: "rosatokan05@gmail.com"
+  },
+  {
+    Nama: "Martina Muda",
+    NIM: "5520124023",
+    NIK: "5306096612050001",
+    Jenis_Kelamin: "Wanita",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Lewokemie Bawah, 26 Desember 2005",
+    Alamat: "Oyang Baran",
+    Nomor_HP: "082147135197",
+    Email: "martinamuda12@gmail.com"
+  },
+  {
+    Nama: "Yessa Adera Bella Riberu",
+    NIM: "5520124024",
+    NIK: "1603074806030005",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Tanjung Enim, 8 Juni 2003",
+    Alamat: "",
+    Nomor_HP: "082235731156",
+    Email: "yesariberu@gmail.com"
+  },
+  {
+    Nama: "Sanctisima Sabu Koten",
+    NIM: "5520124025",
+    NIK: "5306024811990004",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Malaysia, 8 November 1999",
+    Alamat: "",
+    Nomor_HP: "082144523862",
+    Email: "sanctisimasabukoten@gmail.com"
+  },
+  {
+    Nama: "Dominikus Dominggu Xaveriano Wain",
+    NIM: "5520124026",
+    NIK: "5306034511020003",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Maumere, 5 November 2002",
+    Alamat: "",
+    Nomor_HP: "082340733553",
+    Email: "wainverry05@gmail.com"
+  },
+  {
+    Nama: "Fransiska Ayu Ogot Paurain",
+    NIM: "5520124027",
+    NIK: "5306085407050001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Hurung, 14 Juli 2005",
+    Alamat: "",
+    Nomor_HP: "082144788638",
+    Email: "ayuogot@gmail.com"
+  },
+  {
+    Nama: "Yustina Ina Kewa",
+    NIM: "5520124028",
+    NIK: "5306146103050001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Koting, 21 Maret 2005",
+    Alamat: "",
+    Nomor_HP: "082340732452",
+    Email: "ystin163@gmail.com"
+  },
+  {
+    Nama: "Maria Nopi Weking",
+    NIM: "5520124029",
+    NIK: "5306046805050001",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Lewohala, 28 Mei 2005",
+    Alamat: "",
+    Nomor_HP: "081329796473",
+    Email: "ophyweking540@gmail.com"
+  },
+  {
+    Nama: "Nobertus Sanga Seli",
+    NIM: "5520124030",
+    NIK: "5306181311020001",
+    Jenis_Kelamin: "Pria",
+    Tempat_Tanggal_Lahir: "Lite, 13 November 2002",
+    Alamat: "",
+    Nomor_HP: "085319160355",
+    Email: "sangaselinobertus@gmail.com"
+  },
+  {
+    Nama: "Dominika Martha Winiati",
+    NIM: "5520124031",
+    NIK: "5306085305050002",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Hurung, 13 Mei 2005",
+    Alamat: "Hurung",
+    Nomor_HP: "085213009781",
+    Email: "wini87001@gmail.com"
+  },
+  {
+    Nama: "Maria Paskalin Irmtrud",
+    NIM: "5520124032",
+    NIK: "5307095905050002",
+    Jenis_Kelamin: "Wanita",
+    Tempat_Tanggal_Lahir: "Batam, 19 Mei 2005",
+    Alamat: "Wolontibang",
+    Nomor_HP: "082145267804",
+    Email: "mariapaskalin1@gmail.com"
+  },
+  {
+    Nama: "Yoseph Marianus B. Limahekin",
+    NIM: "5520124033",
+    NIK: "5306151903030001",
+    Jenis_Kelamin: "Pria",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Ende, 19 Maret 2003",
+    Alamat: "Leworahang",
+    Nomor_HP: "081239663687",
+    Email: "ianlimahekin25@gmail.com"
+  },
+  {
+    Nama: "Timotius Renaldy Saputra Rama",
+    NIM: "5520124034",
+    NIK: "5306112109040001",
+    Jenis_Kelamin: "Pria",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Makassar, 21 September 2004",
+    Alamat: "Desa Dua Nisakarang",
+    Nomor_HP: "085340637610",
+    Email: "naldyrama906@gmail.com"
+  },
+  {
+    Nama: "Yeremias Frederick",
+    NIM: "5520124035",
+    NIK: "5306173009050005",
+    Jenis_Kelamin: "Pria",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Sabah, 30 September 2005",
+    Alamat: "Kolimasang, Kec. Adonara, Kab. Flores Timur, Prov. Nusa Tenggara Timur",
+    Nomor_HP: "082340315526",
+    Email: "subangboli@gmail.com"
+  },
+  {
+    Nama: "Clara Yustina Yulita Weran",
+    NIM: "5520124036",
+    NIK: "5306035907060002",
+    Jenis_Kelamin: "Wanita",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Larantuka, 19 Juli 2006",
+    Alamat: "Lokea",
+    Nomor_HP: "081339368593",
+    Email: "callaweran29@gmail.com"
+  },
+  {
+    Nama: "Maria Apriani Barek Bura",
+    NIM: "5520124037",
+    NIK: "5306115204030001",
+    Jenis_Kelamin: "Wanita",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Lamapaha, 12 April 2003",
+    Alamat: "Lamapaha",
+    Nomor_HP: "082341587952",
+    Email: "yenilamawuran@gmail.com"
+  },
+  {
+    Nama: "Elisabeth Lerek Sogen",
+    NIM: "5520124038",
+    NIK: "5306057105020001",
+    Jenis_Kelamin: "Wanita",
+    Agama: "Katolik",
+    Tempat_Tanggal_Lahir: "Malaysia, 31 Mei 2002",
+    Alamat: "",
+    Nomor_HP: "082247956505",
+    Email: "eroshoro36@gmail.com"
+  }
 ];
