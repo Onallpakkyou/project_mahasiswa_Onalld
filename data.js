@@ -35,7 +35,6 @@ const dataMahasiswa = [
     HP: "082325485527",
     Email: "winatakoten@gmail.com",
   },
-  const dataMahasiswa = [
   {
     Nama: "Antonius Kae Da Silva",
     NIM: "5520124001",
