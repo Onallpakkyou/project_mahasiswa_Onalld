@@ -210,7 +210,7 @@ const dataMahasiswa = [
     Alamat: "",
     HP: "081352372078",
     Email: "wulayohana6@gmail.com"
-  }
+  },
   // ... (lanjutkan hingga 38 data seperti format di atas)
 ];
 
