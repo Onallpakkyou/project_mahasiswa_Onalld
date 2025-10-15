@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cari Biodata Mahasiswa - Teknik Informatika IKTL</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Laporan Daftar Mahasiswa Teknik Informatika 2024</h1>
+    <p>Program Studi: <b>S1 Teknik Informatika</b> | Periode 2024 Ganjil</p>
+
+    <input type="text" id="searchInput" placeholder="Cari berdasarkan NIM atau Nama...">
+    <button onclick="searchStudent()">Cari</button>
+
+    <div id="result" class="card"></div>
+  </div>
+
+  <script src="data.js"></script>
+  <script>
+    function searchStudent() {
+      const query = document.getElementById("searchInput").value.toLowerCase();
+      const resultDiv = document.getElementById("result");
+      const mahasiswa = dataMahasiswa.find(mhs =>
+        mhs.NIM.toLowerCase().includes(query) || mhs.Nama.toLowerCase().includes(query)
+      );
+
+      if (mahasiswa) {
+        resultDiv.innerHTML = `
+          <h2>${mahasiswa.Nama}</h2>
+          <p><b>NIM:</b> ${mahasiswa.NIM}</p>
+          <p><b>Jenis Kelamin:</b> ${mahasiswa.JK}</p>
+          <p><b>Tempat, Tanggal Lahir:</b> ${mahasiswa.TempatLahir}, ${mahasiswa.TanggalLahir}</p>
+          <p><b>Alamat:</b> ${mahasiswa.Alamat || '-'}</p>
+          <p><b>No HP:</b> ${mahasiswa.HP}</p>
+          <p><b>Email:</b> ${mahasiswa.Email}</p>
+        `;
+      } else {
+        resultDiv.innerHTML = `<p style="color:red;">Mahasiswa tidak ditemukan.</p>`;
+      }
+    }
+  </script>
+</body>
+</html>
