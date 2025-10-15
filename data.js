@@ -213,5 +213,3 @@ const dataMahasiswa = [
   },
   // ... (lanjutkan hingga 38 data seperti format di atas)
 ];
-
-export default dataMahasiswa;
